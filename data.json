@@ -1,0 +1,97 @@
+{
+    "coffee": [
+        {
+            "foto": "images/produk/produk_cold_brew_coffee.jpg",
+            "nama": "Cold Brew Coffee",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=cold+brew+coffee&tbm=shop"
+        },
+        {
+            "foto": "images/produk/produk_dalgona_coffee.jpg",
+            "nama": "Dalgona Coffee",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=dalgona+coffee&tbm=shop"
+        },
+        {
+            "foto": "images/produk/produk_dalgona_matcha_latte.jpg",
+            "nama": "Dalgona Matcha Latte",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=dalgona+matcha+latte&tbm=shop"
+        },
+        {
+            "foto": "images/produk/produk_iced_americano.jpg",
+            "nama": "Iced Americano",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=iced+americano&tbm=shop"
+        },
+        {
+            "foto": "images/produk/produk_iced_caramel_macchiato.jpg",
+            "nama": "Iced Caramel Macchiato",
+            "harga": "37.500",
+            "link": "https://www.google.com/search?q=iced+caramel+macchiato&tbm=shop"
+        },
+        {
+            "foto": "images/produk/produk_iced_coffee.jpg",
+            "nama": "Iced Coffee",
+            "harga": "19.000",
+            "link": "https://www.google.com/search?q=iced+coffee&tbm=shop"
+        },
+        {
+            "foto": "images/produk/produk_iced_mexican_coffee.jpg",
+            "nama": "Iced Mexican Coffee",
+            "harga": "39.000",
+            "link": "https://www.google.com/search?q=iced+mexican+coffee&tbm=shop"
+        },
+        {
+            "foto": "images/produk/produk_iced_shaken_espresso.jpg",
+            "nama": "Iced Shaken Espresso",
+            "harga": "43.000",
+            "link": "https://www.google.com/search?q=iced+shaken+espresso&tbm=shop"
+        },
+        {
+            "foto": "images/produk/produk_jelly_coffee.jpg",
+            "nama": "Jelly Coffee",
+            "harga": "26.000",
+            "link": "https://www.google.com/search?q=jelly+coffee&tbm=shop"
+        },
+        {
+            "foto": "images/produk/produk_oatmilk_honey_latte.jpg",
+            "nama": "Oatmilk Honey Latte",
+            "harga": "29.000",
+            "link": "https://www.google.com/search?q=oatmilk+honey+latte&tbm=shop"
+        }
+    ],
+    "tea": [
+        {
+            "foto": "images/produk/produk_lemon_tea.jpg",
+            "nama": "Lemon Tea",
+            "harga": "19.000",
+            "link": "https://www.google.com/search?q=lemon+tea&tbm=shop"
+        },
+        {
+            "foto": "images/produk/produk_peach_iced_tea.jpg",
+            "nama": "Peach Iced Tea",
+            "harga": "28.000",
+            "link": "https://www.google.com/search?q=peach+iced+tea&tbm=shop"
+        },
+        {
+            "foto": "images/produk/produk_thai_tea_dalgona.jpg",
+            "nama": "Thai Tea Dalgona",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=thai+tea+dalgona&tbm=shop"
+        },
+        {
+            "foto": "images/produk/produk_thai_tea.jpg",
+            "nama": "Thai Tea",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=thai+tea&tbm=shop"
+        },
+        {
+            "foto": "images/produk/produk_vanilla_iced_tea.jpg",
+            "nama": "Vanilla Iced Tea",
+            "harga": "36.500",
+            "link": "https://www.google.com/search?q=vanilla+iced+tea&tbm=shop"
+        }
+        
+    ]
+}
