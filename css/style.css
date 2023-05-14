@@ -53,7 +53,7 @@ img {
       mengatur agar semua elemen img memiliki panjang maksimal 100% agar
       tidak besar gambar tidak melebihi layar ataupun pembungkus
    */
-   max-width: 100%;
+   max-width: 90%;
 }
 
 /* Navigasi */
